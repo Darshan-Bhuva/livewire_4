@@ -1,0 +1,15 @@
+<?php
+
+use Livewire\Component;
+
+new class extends Component
+{
+    //
+};
+?>
+
+{{-- <div>
+    It is not the man who has too little, but the man who craves more, that is poor. - Seneca
+</div> --}}
+
+<h1>wkfnewfbwufew</h1>
